@@ -35,7 +35,6 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **Coding Skills.**
-- 🌱 I’m currently learning **serverless programing.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/tommy2804?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tommy2804" height="30" width="40" /></a>
 - 💬 Ask me about **React, JS and CSS.**
 
